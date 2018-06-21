@@ -1,0 +1,32 @@
+/* @license
+ * MyFonts Webfont Build ID 2470679, 2013-02-05T10:36:38-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Circe Bold by ParaType
+ * URL: http://www.myfonts.com/fonts/paratype/circe/bold/
+ * 
+ * Webfont: Circe by ParaType
+ * URL: http://www.myfonts.com/fonts/paratype/circe/regular/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2470679
+ * Webfonts copyright: Copyright &#x00A9; 2011 ParaType Inc., ParaType Ltd. All rights reserved.
+ * 
+ * © 2013 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+/*@import url("http://hello.myfonts.net/count/25b317");*/
+
+  
+@font-face {font-family: 'Circe-Bold';src: url('../webfonts/25B317_0_0.eot');src: url('../webfonts/25B317_0_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/25B317_0_0.woff') format('woff'),url('../webfonts/25B317_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Circe-Regular';src: url('../webfonts/25B317_1_0.eot');src: url('../webfonts/25B317_1_0.eot?#iefix') format('embedded-opentype'),url('../webfonts/25B317_1_0.woff') format('woff'),url('../webfonts/25B317_1_0.ttf') format('truetype');}
+ 
